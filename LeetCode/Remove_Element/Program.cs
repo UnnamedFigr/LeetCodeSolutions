@@ -4,6 +4,7 @@
     {
         static void Main(string[] args)
         {
+            //Difficulty: Easy
             Console.WriteLine("Hello, World!");
         }
     }
